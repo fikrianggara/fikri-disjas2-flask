@@ -49,3 +49,7 @@ Untuk lainnya seperti arrivals, departures, weather, onground, dll, cek di file 
 Note : arrivals dan departures untuk yang akun free / tidak login cuma bisa sampai page 3
 
 Mungkin ada yang mau kontribusi tambah kodenya dipersilahkan.
+
+Contributor :
+- Miftahudin (rest api developer)
+- Fikri Septrian Anggara (apps deployer)
