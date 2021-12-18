@@ -50,6 +50,6 @@ Note : arrivals dan departures untuk yang akun free / tidak login cuma bisa samp
 
 Mungkin ada yang mau kontribusi tambah kodenya dipersilahkan.
 
-Contributor :
-- *Miftahuddin* (rest api developer) [Miftahuddin-cod](https://github.com/Miftahuddin-cod)
-- *Fikri Septrian Anggara* (apps deployer) [fikrianggara](https://github.com/fikrianggara)
+###Contributor :
+- :technologist: *Miftahuddin* (rest api developer) [Miftahuddin-cod](https://github.com/Miftahuddin-cod)
+- :technologist: *Fikri Septrian Anggara* (apps deployer) [fikrianggara](https://github.com/fikrianggara)
