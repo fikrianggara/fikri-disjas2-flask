@@ -52,4 +52,4 @@ Mungkin ada yang mau kontribusi tambah kodenya dipersilahkan.
 
 ### Contributors
 - :technologist: *Miftahuddin* (rest api developer) [Miftahuddin-cod](https://github.com/Miftahuddin-cod)
-- :technologist: *Fikri Septrian Anggara* (apps deployer) [fikrianggara](https://github.com/fikrianggara)
+- :technologist: *Fikri Septrian Anggara* (deployment) [fikrianggara](https://github.com/fikrianggara)
