@@ -26,13 +26,13 @@ def airportDetailss(airport, page):
 
 @app.route('/<airport>/arrivals/<page>', methods=['GET'])
 def airportArrivals(airport, page):
-    data = flightData.get_airport_arrivals(iata=airport, page=page)
+    data = flightData.get_airport_arrivals(iata=airport, page=page, earlier_data=True)
     return jsonify(data), 200
 
 
 @app.route('/<airport>/departures/<page>', methods=['GET'])
 def airportDepartures(airport, page):
-    data = flightData.get_airport_departures(airport, page=page)
+    data = flightData.get_airport_departures(airport, page=page, earlier_data=True)
     return jsonify(data), 200
 
 
